@@ -1,2 +1,2 @@
 # Master-Python
-A pytthon mastering mini project
+A python mastering mini project
